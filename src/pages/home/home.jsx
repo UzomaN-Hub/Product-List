@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Data from '../../../../data.json'
+import Data from '../../data.json'
 import Cart from '../../assets/icon-add-to-cart.svg'
 import Illustration from '../../assets/illustration-empty-cart.svg'
 import Remove from '../../assets/icon-remove-item.svg'
