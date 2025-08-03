@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+
+body {
+  
+  font-family: "Red Hat Text", sans-serif;
+  font-optical-sizing: auto;
+  
+}
